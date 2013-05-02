@@ -1,0 +1,5 @@
+Go to this directory via terminal and type the following commands:
+
+1.make.
+2.sudo insmod Kthread.ko.
+3.dmesg(to view the result).
